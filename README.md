@@ -1,2 +1,11 @@
 # RoadSide-Service
-A easy display of a dynamic website created with React.
+
+Project Name: RoadSide Services
+Description: A dynamic website that aims to infrom clients of services a RoadSide Business offers.
+
+Table Of Content:
+
+Installation:
+
+Usage:
+
